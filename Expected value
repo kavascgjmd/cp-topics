@@ -1,0 +1,6 @@
+e(number of days) / e(number of something) 
+We choose 10 cards at random from a standard deck of 52 cards. Find EV of the number of aces.
+now for this i could think this in two ways 
+E(x1+x2+x3+x4+x5+x6+x7+x8+x9+x10) here xi denotes that out of 10, i is ace
+E(x1+x2+x3+x4+x5+x6+x7+x8+x9+x10) here xi denotes that i card is ace or not so if it isn't ace than i have some of all probalilites,
+so xi is open as xi*1 + xi`*0 that it isnt ace so i just need it is ace 
